@@ -1,3 +1,4 @@
+Project Title
 Blob - Example 3
 
 2. Group Members: Cameron Emsley-Drummond, cemsleyd,
@@ -5,7 +6,15 @@ Blob - Example 3
 
 3. Description: A player controls a blob and jumps above objects and hurdles and onto platforms to reach a finish line
 
-4. Setup and Interaction Instructions: Player used W or UP to jump, A & D or LEFT & RIGHT to move the blob left and right
+4. Setup and Interaction Instructions: 
+Setup
+Run in github pages
+
+Controls
+Player used W or UP to jump, A & D or LEFT & RIGHT to move the blob left and right
+
+Objective
+Reach flag on the right side of map by jumping over hurdles 
 
 5. Iteration Notes
    a. Post-Playtest: Added hurdles to add a movement challenge
